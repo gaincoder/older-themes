@@ -2,7 +2,7 @@ Older Themes Plugin
 ================================
 Older Themes Plugin for the [**Bludit CMS**](https://www.bludit.com/)
 
-This plugin provides a wrapper class which is needed to get not updated themes working in Bludit > 4.0.
+This plugin provides a wrapper class which is needed to get not updated themes working in Bludit >= 4.0.
 
 
 License

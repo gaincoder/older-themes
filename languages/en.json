@@ -2,6 +2,6 @@
 	"plugin-data":
 	{
 		"name": "Older Themes",
-		"description": "Use older themes with Bludit > 4.0"
+		"description": "Use older themes with Bludit >= 4.0"
 	}
 }
